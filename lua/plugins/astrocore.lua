@@ -66,7 +66,7 @@ return {
       t = {
         -- setting a mapping to false will disable it
         -- ["<esc>"] = false,
-        ["<C-l>"] = false,
+        ["<C-L>"] = false,
       },
     },
   },
