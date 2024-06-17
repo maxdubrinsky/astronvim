@@ -15,6 +15,7 @@ return {
       -- null_ls.builtins.formatting.stylua,
       -- null_ls.builtins.formatting.prettier,
       null_ls.builtins.formatting.buildifier,
+      null_ls.builtins.formatting.goimports,
     }
     return config -- return final config table
   end,
