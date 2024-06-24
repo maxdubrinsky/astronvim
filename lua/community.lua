@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.pack.prisma" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.toml" },
+  { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.git.diffview-nvim" },
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
