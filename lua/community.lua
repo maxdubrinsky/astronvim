@@ -15,7 +15,6 @@ return {
   { import = "astrocommunity.git.diffview-nvim" },
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
   { import = "astrocommunity.editing-support.multicursors-nvim" },
-  { import = "astrocommunity.programming-language-support.rest-nvim" },
 
   { import = "astrocommunity.completion.copilot-cmp" },
 }
